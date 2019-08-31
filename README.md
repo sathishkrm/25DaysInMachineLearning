@@ -111,9 +111,9 @@ Model Validation, train-test, Cross-validation, Variance, Bias, variance-bias tr
 
 practise in Kaggle : 
 
-Predict the insurance income : https://www.kaggle.com/noordeen/insurance-premium-prediction/kernels
-Predict the count of bike taken as rent : https://www.kaggle.com/noordeen/bikeshare-data
-predict the valuecourse of lung cancer value : https://www.kaggle.com/noordeen/big-city-health-data
+Predict the insurance income : https://www.kaggle.com/noordeen/insurance-premium-prediction/kernels<br>
+Predict the count of bike taken as rent : https://www.kaggle.com/noordeen/bikeshare-data<br>
+predict the valuecourse of lung cancer value : https://www.kaggle.com/noordeen/big-city-health-data<br>
 
 [Day - 19](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/19%20-%20Day%20-%2019%20-%20Hackathon%20Sample)
 22-06-2019
@@ -132,3 +132,65 @@ Logistic Regression theory and Practise:
 Converting the continuous to probablity, Cost Function - Log loss, Error Metrics - Confusion Matrix, Accuracy, recall, precision, F1-score, ROC curve, AUC. 
 
 Predicting gender of an employer, Predicting marketing subscription by a customer.
+
+[Day - 21](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/21%20-%20Day%20-%2021%20-%20KNN%20-%20Naive%20Bayes)
+29-06-2019
+KNN and Naive Bayes Algorithm:
+KNN working, Regression and classification, Why scaling mandatory, How to find optimal K value, Computational Complexity of O(N^2), Why KD Tree. 
+Naive Bayes Working, Classification, Assumption of Naive Bayes, Bayes Theorem, Example 
+
+Assigment: Implement KNN algorithm in following kaggle datset
+
+Predict the insurance income : https://www.kaggle.com/noordeen/insurance-premium-prediction/kernels<br>
+Predict the count of bike taken as rent : https://www.kaggle.com/noordeen/bikeshare-data<br>
+predict the valuecourse of lung cancer value : https://www.kaggle.com/noordeen/big-city-health-data<br>
+predict employee attrition : https://www.kaggle.com/noordeen/employee-attrition/kernels<br>
+
+[Day - 22](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/22%20-%20Day%20-%2022%20-%20K-means%2C%20Hierrachical):
+30-06-2019
+Unsupervised Learning(K-means, Hierrachical Cluster):
+Un-Supervised Learning, K-means, K-means++, Within- Sum-of-Square, optimal K value, Elbow curve, Scaling Madatory, Heirarchical, Agglomerative, Dendogram 
+
+Assignment: Find the pattern of the credit card usage in the following kaggle dataset.<br>
+https://www.kaggle.com/noordeen/card-usage/kernels
+
+
+[Day - 23](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/23%20-%20Day%20-%2023%20-%20Decision%20Tree):
+06-07-2019
+Decision Tree:
+Entropy, Information gain, Gini Index, Problems of Decision tree, Pruning, High Bias.
+Decision Tree Classification and Decision Tree Regressor.
+
+Assigngment : 
+Implement Decision Tree Classsification
+predict employee attrition : https://www.kaggle.com/noordeen/employee-attrition/kernels<br>
+Implement Decision Tree Regressor 
+Predict the insurance income : https://www.kaggle.com/noordeen/insurance-premium-prediction/kernels<br>
+Predict the count of bike taken as rent : https://www.kaggle.com/noordeen/bikeshare-data<br>
+predict the valuecourse of lung cancer value : https://www.kaggle.com/noordeen/big-city-health-data<br>
+
+[Day - 24](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/24%20-%20Day%20-%2024%20-%20Ensemble):
+07-07-2019
+Ensemble:
+Bagging - Random Forest, Boosting - AdaBoost.
+
+Assignment: Implement Bagging and Boosting
+https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/24%20-%20Day%20-%2024%20-%20Ensemble/Assignment
+
+
+[Day - 25](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/25%20-%20Day%20-%2025%20-%20SVM
+):
+13-07-2019
+Stacking and SVM:
+Stacking - Example - Support vector machine - perceptron, kernels
+
+Assignemnt : Implement SVM and Stacking
+https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/25%20-%20Day%20-%2025%20-%20SVM/Assignment
+
+
+[Day - 26](https://github.com/nursnaaz/25DaysInMachineLearning/tree/master/26%20-%20Day%20-%2026%20-%20TimeSeries
+):
+14-07-2019
+TimeSeries:
+ACF - PACF - Regression for Forecasting - Smoothing - SMA - WMA - EMA - AR - MA - ARMA - ARIMA 
+
